@@ -1,0 +1,11 @@
+.portfolioWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.card {
+    margin: 5px;
+    border-radius: 12px;
+}
