@@ -1,3 +1,8 @@
 .form-group { 
     margin: 35px;
+    padding: 10px;
+}
+
+input, select, button {
+    box-shadow: 5px 5px 2px 0px rgba(0,0,0,.5);
 }

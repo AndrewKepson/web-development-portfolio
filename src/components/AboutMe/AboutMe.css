@@ -2,7 +2,8 @@
     margin: 10px;
     padding: 10px;
     background: #3a52aa;
-    opacity: 60%;
+    box-shadow: 5px 5px 2px 0px rgba(0,0,0,.5);
     color: rgb(236, 230, 230);
+    opacity: 60%;
     border-radius: 10px;
 }
