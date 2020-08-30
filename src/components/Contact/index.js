@@ -2,11 +2,15 @@ import React from 'react';
 import './Contact.css'
 
 const Contact = () => {
+
+
     return(
         <form>
             <div className="form-group">
                 <input type="text" class="form-control" id="nameInput" placeholder="Name" />
-                <br/><br />
+                <br /><br />
+                <input type="text" class="form-control" id="emailInput" placeholder="Email Address" />
+                <br /><br />
                 <select class="custom-select">
                 <option selected>Which service are you interested in?</option>
                 <option value="1">Website Building</option>
